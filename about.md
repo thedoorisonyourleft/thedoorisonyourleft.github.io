@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-KY
+2020y mogakco blog
