@@ -4,7 +4,6 @@ author: thedoorisonyourleft
 avatar: /logo.png
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
 
