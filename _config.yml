@@ -2,8 +2,6 @@ title: History for all
 description: MoGakCo
 author: thedoorisonyourleft
 avatar: /logo.png
-email: thedoorisonyourleft@gmail.com
-
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
@@ -29,15 +27,8 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: moimoifd
-  card: summary
-logo: logo.png
-social:
-  name: thedoorisonyourleft
-  links:
-    - https://github.com/thedoorisonyourleft
+
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+lang: kr
 
 theme: jekyll-theme-minimal
