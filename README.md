@@ -6,12 +6,6 @@ The original purpose of this theme is to be a replacement of the default Jekyll 
 
 Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).
 
-| Skins | Displays |
-| ----- | -------- |
-| Daylight | ![screenshot](screenshot.png) |
-| Sunrise/Sunset | ![screenshot](screenshot-sunrise.png) |
-| Midnight | ![screenshot](screenshot-midnight.png) |
-
 ## Features <!-- omit in toc -->
 
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
@@ -82,7 +76,7 @@ After installation, you can run `jekyll serve` to check out your site, but befor
 ### Optional Parameters
 
 | Parameters | Types | Specifications |
-|:---------- |:----- |:-------------- |
+|:---------- |:----- |-------------- |
 | `author`   | string | The name of the author of the site; It would be showed in the copyright statement. |
 | `avatar`   | string | The avatar of the author of the site. |
 | `email`    | string | The email of the author of the site. |
