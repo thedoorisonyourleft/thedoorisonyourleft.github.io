@@ -7,7 +7,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-paginate: 10
+paginate: 5
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
@@ -30,4 +30,4 @@ exclude:
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: kr
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
