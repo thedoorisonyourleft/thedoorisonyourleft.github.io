@@ -5,8 +5,6 @@ title: "모각코 1일차 후기"
 categories: Mogakco
 published: true
 ---
-* * *
-
 ## Blender Interface & Shortcut
 
 <center><img src="/assets/images/2020-12-26-15-59-54.png" width="400" height="300" alt="blender workspace"/></center>
