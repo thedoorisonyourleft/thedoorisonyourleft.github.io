@@ -21,4 +21,4 @@ published: true
 
 <center><img src="/assets/images/2020-12-30-20-03-41.png" width="100" height="100" alt="prop select"/></center>
 
-이 원점은 3D 커서라고 함. Shift + A로 이동 가능
+이 원점은 3D 커서라고 함. Shift + A로 이동 가능. 다른방식으로도 사용 가능.
