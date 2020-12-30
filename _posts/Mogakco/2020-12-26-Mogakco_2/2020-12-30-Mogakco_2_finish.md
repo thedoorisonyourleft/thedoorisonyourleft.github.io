@@ -6,13 +6,13 @@ categories: Mogakco
 published: true
 ---
 
-## 캔 만들기
+## Can making
 
 <center><img src="/assets/images/2020-12-30-22-18-01.png" width="500" height="500" alt="objet making"/></center>
 
 먼저, 이번 조작에서 쓸 캔을 하나 만들어봤다. 와이어프레임 뷰.
 
-## 원점?
+## 3D point
 
 <center><img src="/assets/images/2020-12-30-20-03-41.png" width="100" height="100" alt="prop select"/></center>
 
@@ -20,7 +20,7 @@ published: true
 
 ---
 
-## Window?
+## Window
 
 <center><img src="/assets/images/2020-12-30-19-44-34.png" width="300" height="300" alt="outliner"/></center>
 
@@ -49,7 +49,7 @@ Principled BSDF Shader을 사용하고, Metalic을 1, Roughness를 0.2정도로 
 
 ---
 
-## Other Properties?
+## Other Properties
 
 <center><img src="/assets/images/2020-12-30-22-07-50.png" width="150" height="400" alt="prop select"/></center>
 
