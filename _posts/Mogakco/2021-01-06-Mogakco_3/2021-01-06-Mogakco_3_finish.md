@@ -22,7 +22,7 @@ published: true
 
 3D에서는 (x,y,z) 3축을 사용하지만, 2D로 unwrapping할때는 같은 좌표계를 사용할 수 없다. 그래서, x 앞의 (u,v)를 사용해서 표시한다.
 
-<center><img src="/assets/images/2021-01-06-15-49-26.png" width="1200" height="600" alt="UV editor"/></center>
+<center><img src="/assets/images/2021-01-06-15-49-26.png" width="1200" height="400" alt="UV editor"/></center>
 
 **`Shift + F10`** 을 통해 UV Editor를 띄울 수 있다. 위는 UV Editor를 띄운 상태에서 텍스쳐를 넣을 face를 선택하고, 해당 face가 성공적으로 Unwrapping된 것을 확인할 수 있다.
 
@@ -40,6 +40,6 @@ Mark seam으로 UV Map에서 임의로 나눠줄 edge를 선택 가능하다.
 
 위와 같이 Material Properties에서 베이스컬러를 아까 지정해놨던 텍스쳐를 불러오면 위와 같이 완성된다.
 
-<center><img src="/assets/images/2021-01-06-18-00-34.png" width="300" height="450" alt="final image"/></center>
+<center><img src="/assets/images/2021-01-06-18-00-34.png" width="600" height="300" alt="final image"/></center>
 
 텍스쳐가 잘 들어간 것을 확인 가능하다..
