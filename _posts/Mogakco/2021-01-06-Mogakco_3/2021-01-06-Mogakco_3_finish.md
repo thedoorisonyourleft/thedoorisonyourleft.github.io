@@ -32,7 +32,7 @@ published: true
 
 Mark seam으로 UV Map에서 임의로 나눠줄 edge를 선택 가능하다.
 
-<center><img src="/assets/images/2021-01-06-16-43-45.png" width="400" height="300" alt="input texture"/></center>
+<center><img src="/assets/images/2021-01-06-16-43-45.png" width="900" height="600" alt="input texture"/></center>
 
 위와 같이 텍스쳐를 입력하고,
 
@@ -40,6 +40,6 @@ Mark seam으로 UV Map에서 임의로 나눠줄 edge를 선택 가능하다.
 
 위와 같이 Material Properties에서 베이스컬러를 아까 지정해놨던 텍스쳐를 불러오면 위와 같이 완성된다.
 
-<center><img src="/assets/images/2021-01-06-18-00-34.png" width="600" height="300" alt="final image"/></center>
+<center><img src="/assets/images/2021-01-06-18-00-34.png" width="800" height="400" alt="final image"/></center>
 
 텍스쳐가 잘 들어간 것을 확인 가능하다..
